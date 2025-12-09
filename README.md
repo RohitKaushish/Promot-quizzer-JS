@@ -33,4 +33,5 @@ The user answers five questions, receives instant feedback after each response, 
 
 ---
 
-## 🧾 Example Output
+## 👨‍💻 Author
+Rohit Kaushish – B.Tech CSE
